@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    {% if site.intro %}
+        <h2>Introduction</h2>
+    <p>{{ site.intro }}</p>
+    {% endif %}
+    {% if site.additional %}
+        <h2>Additional information</h2>
+        {{ site.additional }}
+    {% endif %}
+    {% if site.buzzwords %}
+        <h2>Buzzwords</h2>
+        {% for word in site.buzzwords %}
+            <span class="buzzword">{{ word }}</span>
+        {% endfor %}
+    {% endif %}
+</div>

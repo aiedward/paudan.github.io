@@ -1,0 +1,24 @@
+---
+---
+
+@import "minima";
+
+.fa-cog {
+  color: silver;
+}
+
+.footer-col-1 {
+    width: -webkit-calc(20% - (30px / 2));
+    width: calc(20% - (30px / 2));
+}
+
+.footer-col-3 {
+    width: -webkit-calc(60% - (30px / 2));
+    width: calc(60% - (30px / 2));
+}
+
+.buzzword {
+    background-color: black;
+    color: white;
+    padding: 5px;
+}

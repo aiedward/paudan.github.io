@@ -1,0 +1,57 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Paulius Danėnas
+email: danpaulius@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Software developer, researcher, data scientist, 
+  Java, Python and machine learning enthusiast
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://paudan.github.io"
+
+twitter_username: danpaulius
+github_username:  paudan
+linkedin_username:  pauliusdanenas
+bitbucket_username: pauliusdan
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+intro: >
+    I'm a computer scientist, data scientist and developer, comfortable with a multitude of different technologies.
+    I enjoy researching new ideas, implementing them into working prototypes,a s well as transferring them to practical real-world applications
+
+buzzwords:
+  - Python
+  - Java
+  - machine learning
+  - SVM
+  - SQL
+
+additional: >
+    <p><b>Java</b>: I am experienced with an array of Java APIs which are relevant to data science and machine learning, such as Weka.
+    Although I feel more comfortable while developing desktop apps with Swing, I have some experience in development of web services using Jax-WS.
+    During my work as researcher I also gained experience with more specific Java technologies, such as Eclipse EMF.
+    Highly interested in techstack which is relevant to Big Data, Hadoop, Spark, etc. </p>
+    <p><b>Web development</b>:  My server side web development experience has largely been based on development of websites
+    I have used multiple CMS (Joomla, Wordpress, CMS Made Simple), as well as have some minor experience with Java frameworks (Servlets, Vaadin) <p/>
+    <p><b>Best practices</b>: I gained a lot og understanding of necessity to keep code clean, simple and understandable while developing prototype tools which
+    involved a considerable amount of complexity. Therefore, terms like "design patterns", "refactoring", "testing" are common for the code I write.</p>
+    <p><b>Development tools</b>: I have worked with SVN, Git, Maven, Junit which I find natural for everyday use</p>
+

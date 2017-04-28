@@ -3,8 +3,16 @@
 
 @import "minima";
 
-.fa-cog {
-  color: silver;
+.icon, .username {
+  color: #8e8e8e;
+}
+
+.icon:hover, .username:hover {
+  color: $text-color;
+}
+
+.social-media-list a:hover {
+    text-decoration: none;
 }
 
 .footer-col-1 {

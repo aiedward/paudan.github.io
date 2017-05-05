@@ -11,14 +11,15 @@ I hold several professional developer certifications from major authorities:
 - MB7-838: Microsoft Dynamics NAV 2009 Installation and Configuration (Microsoft)
 - MB7-514: NAV 5.0 C/SIDE Introduction (Microsoft)
 
-I am a very keen learner seeking to master new skills as well as possible. 
+I am a very keen learner seeking to master new skills which are necessary for my professional career. 
 I am also a big fan of Massive Open Online Courses (MOOC) which provide an opportunity to learn from the best lecturers and scientists worldwide. 
-Below, find the most interesting ones which I was pleased to attend and obtain attestances of accomplishment.
+Below, find the most interesting ones which I was pleased to attend and obtain attestances of their accomplishment.
 
 #### Verified certificates
 
 Machine Learning (Stanford University, Coursera) [link](https://www.coursera.org/account/accomplishments/records/WQXHDSZV52KJ)  
 Algorithms: Design and Analysis, Part 2 (Stanford University, Coursera) [link](https://www.coursera.org/account/accomplishments/records/LJD2BVJCNYPZ)  
+Neural Networks for Machine Learning (University of Toronto, Coursera) [link](https://www.coursera.org/account/accomplishments/verify/D5XDDDGQ5KLV)
 
 #### Statements of accomplishment
 

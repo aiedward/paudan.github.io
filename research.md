@@ -92,29 +92,29 @@ Served as a reviewer for multiple highly-regarded scientific journals:
 ### Research projects (academia)
 
 **VEPSEM (Integration of Business Processes and Business Rules on the Base of Business Semantics)**  
-Kaunas University of Technology/No Magic Inc., 2013.04-2015.04  
+*Kaunas University of Technology/No Magic Inc., 2013.04-2015.04*  
 - Designed and developed prototype implementation for SBVR BV&BR artefact extraction from UML Use Case diagrams in MagicDraw UML environment
 - Worked on prototype implementation (particularly transformations between UML diagrams and SBVR concepts using QVT, as well as customizations for MagicDraw environment).
 - Contributed to scientific papers.
 
 **IDAPI (Research and development of Internet of things and services technologies and infrastructure for smart environments)**  
-Kaunas University of Technology. 2014.09 - 2015.08  
+*Kaunas University of Technology. 2014.09 - 2015.08*  
 Worked on prototype implementation for user-defined transformation between elements of different notations (UML, BPMN2 
 (Business Process Modeling Notation), SBVR, SoaML), represented using UML profiles, in MagicDraw UML environment (adopted from VEPSEM project)
 ### Research projects (commercial sector)
 
 **User created law information management information system integrated with law information systems**  
-Lexnet, 2012  
+*Lexnet, 2012*  
 Performed comparative analysis of methods for software requirements engineering, design and development, 
 developed conceptual artefact for adoption of several methodologies to design and develop analysed and similar systems.
 
 **European Union law knowledge management system, integrated with national law system**  
-Lexnet, 2012  
+*Lexnet, 2012*  
 Performed research and analysis of diferent development technologies,  methodologies, metrics and standardsin software development processes.
 Developed four conceptual component technology models (one per each candidate platform), using UML based profile, as well as other conceptual models
 
 **Real-time self-organizing financial services management platform (RiskFinas)**  
-RMD Solutions/Fobiss, 2013-2015  
+*RMD Solutions/Fobiss, 2013-2015*  
 Analysis and development of machine learning based tools and techniques for financial risk evaluation. 
 Design and development of prototype tool for credit risk evaluation (credit application scoring). 
 

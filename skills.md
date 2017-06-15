@@ -15,7 +15,7 @@ Italian – basic understanding
 Java – advanced knowledge   
 C/C++, PHP – average knowledge  
 MATLAB, R, Python – average knowledge  
-Linux (Ubuntu, Debian), shell scripting
+Linux (Ubuntu, Debian), shell scripting  
 *Knowledge and previous experience with*:   
 .NET (VB.NET/C#/WinForms) 
 PHP

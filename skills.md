@@ -15,11 +15,13 @@ Italian – basic understanding
 Java – advanced knowledge   
 C/C++, PHP – average knowledge  
 MATLAB, R, Python – average knowledge  
+Linux (Ubuntu, Debian), shell scripting
 *Knowledge and previous experience with*:   
-.NET (VB.NET/C#/WinForms)   
+.NET (VB.NET/C#/WinForms) 
+PHP
 Visual Basic/Visual Basic for Applications (VBA)  
-Shell Scripting/Bash (Linux)/Batch (Windows)  
-HTML 4.0/HTML 5/XHTML, CSS 2.0/3.0, Smarty templating  
+Shell Scripting/Bash (Linux), Batch, Powershell (Windows)  
+HTML 4/5/XHTML, CSS 2.0/3.0, XML, Smarty templating  
 Pascal/Delphi  
 Javascript/Ajax   
 
@@ -29,7 +31,7 @@ Javascript/Ajax
 **Python**: pandas, numpy, scikit, matplotlib, seaborn, pyspark, luigi, Jupyter Notebooks, plotly, etc.
   
 **Scientific packages**: LaTeX.  
-**Development tools**: Ant, Maven, Subversion, GIT, JUnit.  
+**Development tools**: Ant, Maven, Subversion, GIT, JUnit, Docker.  
 **Database systems**: MySQL, PostgreSQL, Google BigQuery, Firebird, Microsoft SQL Server, Microsoft Access, MongoDB (basic).  
 **Data science**: WEKA, RapidMiner (API level), R, MATLAB, Microsoft Power BI, Apache Spark  
 **Modeling technologies/methodologies**: UML 2.4, BPMN2, SBVR, OCL, SysML, DSL (Domain Specific Languages), QVT (Query-View-Transform), UML profiling  

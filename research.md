@@ -13,6 +13,7 @@ permalink: /research/
 - Modeling of business processes and systems
 - Computational finance, financial modeling and risk evaluation
 - Recommender systems
+- Semantic technologies
 
 ### Book chapters
 Danenas P., Garsva G. Intelligent credit risk decision support: architecture and implementations. In: Dunis, C.L., Middleton, P.W., Theofilatos, K.A., Karathanasopolous, A. (Eds.) Artificial Intelligence in Financial Markets: Cutting Edge Applications for Risk Management, Portfolio Optimization and Economics. Palgrave Macmillan UK (Springer), 2016, ISBN: 978-1-137-48879-4. 

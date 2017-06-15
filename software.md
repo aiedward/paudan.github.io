@@ -23,4 +23,7 @@ The tool is capable to perform two types of transformations:
 **[jswarmopt](https://github.com/paudan/jswarmopt)**  
 Particle Swarm Optimization (PSO) implementation, aimed at extensibility and flexibility for fture research and further extensions.
 
+**[data-faker](https://github.com/paudan/data-faker)**  
+Flexible and customizable synthetic dataset generator for Pandas
+
 
